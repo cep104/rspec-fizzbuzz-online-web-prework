@@ -6,6 +6,6 @@ def fizzbuzz(irb)
   elsif irb % 5 == 0
     "Buzz"
   else
-    number
+    nil
   end
 end
